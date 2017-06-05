@@ -1,0 +1,25 @@
+{
+  "name": "no-html-caching",
+  "version": "1.0.0",
+  "description": ".",
+  "main": "app.js",
+  "scripts": {
+    "start": "http-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WojtekSienczylo/no-html-caching.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WojtekSienczylo/no-html-caching/issues"
+  },
+  "homepage": "https://github.com/WojtekSienczylo/no-html-caching#readme",
+  "devDependencies": {
+    "add-stream": "^1.0.0",
+    "gulp": "^3.9.1",
+    "gulp-angular-templatecache": "^2.0.0",
+    "gulp-concat": "^2.6.1"
+  }
+}

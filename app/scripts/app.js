@@ -5,6 +5,6 @@ angular.module('app', ['templates'])
 function title(){
     return {
         restrict:'EA',
-        templateUrl: 'title.template.html'
+        templateUrl: 'app/templates/title.template.html'
     };
 }
